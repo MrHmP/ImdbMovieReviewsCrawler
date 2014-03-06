@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/HTTP jars/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/jsonJARS/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/jsoupJARS/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/jsoupJARS/jsoup-1.7.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himanshu/Desktop/jsoupJARS/jsoup-1.7.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
